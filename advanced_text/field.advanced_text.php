@@ -14,7 +14,7 @@ class Field_advanced_text
 	public $field_type_name			= 'Advanced Text';
 	public $field_type_slug			= 'advanced_text';
 	public $db_col_type				= 'varchar';
-	public $version					= '1.0.0';
+	public $version					= '1.0.1';
 	public $author					= array('name'=>'AFBora', 'url'=>'http://www.codeqube.com/');
 	public $custom_parameters		= array('mode', 'max_length', 'default_value');
 	
